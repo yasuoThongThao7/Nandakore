@@ -1,0 +1,11 @@
+===== PHIẾU XUẤT HÀNG =====
+Tên khách hàng: Nguyễn Quang Thắng
+Địa chỉ: Hà Nội
+
+Danh sách hàng hóa:
+Tên hàng             Số lượng   Đơn giá    Thành tiền
+-------------------------------------------------------------
+Áo t1                3.00       2000000/Chiếc 6000000.00
+Búp bê gwen          1.00       1000000/Thùng 1000000.00
+
+Tổng cộng: 7,000,000.00 VND
